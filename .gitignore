@@ -1,0 +1,5 @@
+*.exe
+UVa.code-workspace
+input.txt
+output.txt
+.vscode
